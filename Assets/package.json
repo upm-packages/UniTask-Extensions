@@ -1,7 +1,7 @@
 {
   "name": "dev.upm-packages.unitask-extensions",
   "displayName": "UniTask Extensions",
-  "version": "1.0.0-preview.1",
+  "version": "1.0.0-preview.2",
   "unity": "2019.2",
   "description": "Extension classes and methods for UniTask",
   "author": {
